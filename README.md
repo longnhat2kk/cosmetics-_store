@@ -1,1 +1,1 @@
-# cosmetics-_store
+# cosmetics_store
